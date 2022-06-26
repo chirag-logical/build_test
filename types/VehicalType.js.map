@@ -1,1 +1,10 @@
-{"version":3,"file":"VehicalType.js","sourceRoot":"","sources":["../../src/types/VehicalType.ts"],"names":[],"mappings":";;;AAAA,IAAY,WAKX;AALD,WAAY,WAAW;IACnB,4BAAa,CAAA;IACb,0BAAW,CAAA;IACX,0BAAW,CAAA;IACX,8BAAe,CAAA;AACnB,CAAC,EALW,WAAW,GAAX,mBAAW,KAAX,mBAAW,QAKtB"}
+{
+  "version": 3,
+  "file": "VehicalType.js",
+  "sourceRoot": "",
+  "sources": [
+    "../../src/types/VehicalType.ts"
+  ],
+  "names": [],
+  "mappings": ";;;AAAA,IAAY,WAKX;AALD,WAAY,WAAW;IACnB,4BAAa,CAAA;IACb,0BAAW,CAAA;IACX,0BAAW,CAAA;IACX,8BAAe,CAAA;AACnB,CAAC,EALW,WAAW,GAAX,mBAAW,KAAX,mBAAW,QAKtB"
+}
